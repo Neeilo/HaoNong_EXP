@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="撿貨清單">
+  <rect width="512" height="512" rx="112" fill="#2f7d32"/>
+  <rect x="136" y="116" width="240" height="304" rx="30" fill="#ffffff"/>
+  <rect x="196" y="92" width="120" height="56" rx="16" fill="#1f5c23" stroke="#ffffff" stroke-width="10"/>
+  <g fill="none" stroke="#2f7d32" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M170 214l16 16 30-34"/>
+    <path d="M170 288l16 16 30-34"/>
+    <path d="M170 362l16 16 30-34"/>
+  </g>
+  <g stroke="#9ccf9f" stroke-width="16" stroke-linecap="round">
+    <path d="M246 212h98"/><path d="M246 286h98"/><path d="M246 360h98"/>
+  </g>
+</svg>

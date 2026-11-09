@@ -1,0 +1,10 @@
+{
+  "name": "haonong-order-tool-pwa",
+  "private": true,
+  "type": "module",
+  "description": "訂單彙總／撿貨清單工具（order_tool.exe 的 PWA 版）",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "serve": "node tests/serve.mjs"
+  }
+}
